@@ -1,0 +1,47 @@
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\App.g.cs
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MainWindow.baml
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.g.resources
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\С#\2 курс\лабы\2_semester\MyGame\MyGame\obj\Debug\MyGame.pdb
+E:\MyGame\MyGame\bin\Debug\MyGame.exe.config
+E:\MyGame\MyGame\bin\Debug\MyGame.exe
+E:\MyGame\MyGame\bin\Debug\MyGame.pdb
+E:\MyGame\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+E:\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+E:\MyGame\MyGame\obj\Debug\App.g.cs
+E:\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+E:\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+E:\MyGame\MyGame\obj\Debug\MainWindow.baml
+E:\MyGame\MyGame\obj\Debug\MyGame.g.resources
+E:\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+E:\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+E:\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+E:\MyGame\MyGame\obj\Debug\MyGame.exe
+E:\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Компьютер\Desktop\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Компьютер\Desktop\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Компьютер\Desktop\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Компьютер\Desktop\MyGame\MyGame\obj\Debug\MyGame.pdb
